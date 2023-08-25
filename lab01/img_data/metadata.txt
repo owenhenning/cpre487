@@ -1,4 +1,4 @@
 Number		Dims		Class Data
-0		(64, 64, 3)		b'gazelle' (class index: 73 - id: b'n02423022')
-1		(64, 64, 3)		b'computer keyboard, keypad' (class index: 26 - id: b'n03085013')
-2		(64, 64, 3)		b'lifeboat' (class index: 196 - id: b'n03662601')
+0		(1, 64, 64, 3)		[b'sandal'] (class index: [97] - id: [b'n04133789'])
+1		(1, 64, 64, 3)		[b'gazelle'] (class index: [73] - id: [b'n02423022'])
+2		(1, 64, 64, 3)		[b'guacamole'] (class index: [53] - id: [b'n07583066'])
